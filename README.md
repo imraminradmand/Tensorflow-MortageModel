@@ -21,3 +21,8 @@ This project is an example of supervised learning as a dataset was provided to t
 - 98% precision
 - 44% recall 
 - 61% f1-score
+
+## Model results with test data
+<img width="318" alt="Screen Shot 2020-11-09 at 10 26 16 PM" src="https://user-images.githubusercontent.com/69999501/98631433-a7e5c400-22da-11eb-91ad-b456d4833ff3.png">
+
+Model has successfully determined the outcome of the test set
